@@ -1,6 +1,3 @@
 # my first git repository
-Author- khurshid alam sarkar
+Author- khurshid (sarkar)
 <br> my  son- nafisur alam sarkar
-
-
-
